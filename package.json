@@ -1,7 +1,7 @@
 {
   "name": "banana",
   "version": "1.0.0",
-  "main": "banana.js",
+  "main": "index.js",
   "repository": "https://github.com/PinkQween/banana.git",
   "author": "Hanna Skairipa <83796834+PinkQween@users.noreply.github.com>",
   "license": "MIT",
